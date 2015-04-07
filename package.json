@@ -1,0 +1,19 @@
+{
+  "name": "vanilla-htmlbars",
+  "version": "0.0.0",
+  "description": "HTMLBars rendering helper.",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "github.com/atsjj/vanilla-htmlbars"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "author": "Steve Jabour <steve@jabour.me>",
+  "license": "MIT",
+  "keywords": [
+    "ember-addon"
+  ]
+}
